@@ -142,7 +142,8 @@ This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) f
 ## 👥 Authors
 
 - **Your Name**  
-  - [GitHub]([https://github.com/your-username](https://github.com/yogeshwankhede007))  
-  - [LinkedIn]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/ywankhede/)
+  - [GitHub]([https://github.com/yogeshwankhede007])  
+  - [LinkedIn]([https://www.linkedin.com/in/ywankhede/])
 
 Feel free to reach out for any questions or suggestions!
+
