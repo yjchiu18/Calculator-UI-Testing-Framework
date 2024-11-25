@@ -101,7 +101,7 @@ func testAdditionOperation() {
 ## 📂 Structure
 
 ```plaintext
-CalculatorUITests/
+Calculator-UI-Testing-Framework/Kalculator/KalculatorUITests/
 ├── Pages/
 │   ├── CalculatorPage.swift    # Page object with element definitions and interactions
 │   └── BasePage.swift          # Base class with shared logic
