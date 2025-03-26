@@ -45,8 +45,8 @@ This repository contains an automated testing suite that ensures the accuracy an
 
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/your-username/calculator-ui-tests.git
-   cd calculator-ui-tests
+   git clone https://github.com/yogeshwankhede007/Calculator-UI-Testing-Framework.git
+   cd Calculator-UI-Testing-Framework
    ```
 2. Open the `CalculatorUITests.xcodeproj` file in Xcode.  
 3. Build the project using:  
