@@ -193,7 +193,7 @@ public class CalculatorPage: BaseTest {
     }
     
     func getResultText() -> String {
-        let resultLabel = app.staticTexts["text"]
+        let resultLabel = app.staticTexts["resultScreen"]
         return resultLabel.label
     }
 

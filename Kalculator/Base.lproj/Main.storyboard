@@ -14,7 +14,7 @@
         <!--View Controller-->
         <scene sceneID="6WR-5K-4QG">
             <objects>
-                <viewController id="oaN-qY-e67" sceneMemberID="viewController">
+                <viewController id="oaN-qY-e67" customClass="ViewController" customModule="Kalculator" customModuleProvider="target" sceneMemberID="viewController">
                     <layoutGuides>
                         <viewControllerLayoutGuide type="top" id="fcN-aW-QXR"/>
                         <viewControllerLayoutGuide type="bottom" id="TIy-gn-geg"/>
@@ -485,6 +485,19 @@
                             <constraint firstAttribute="trailingMargin" secondItem="YNa-gL-sOY" secondAttribute="trailing" constant="16" id="ht7-gL-ZHb"/>
                         </constraints>
                     </view>
+                    <connections>
+                        <outlet property="resultScreen" destination="YNa-gL-sOY" id="Yjh-Ld-Zcx"/>
+                        <outletCollection property="numberButtons" destination="rMJ-aD-Myb" collectionClass="NSMutableArray" id="Yjh-Ld-Zcx1"/>
+                        <outletCollection property="numberButtons" destination="Pwb-0V-r59" collectionClass="NSMutableArray" id="Yjh-Ld-Zcx2"/>
+                        <outletCollection property="numberButtons" destination="hO2-2a-l6a" collectionClass="NSMutableArray" id="Yjh-Ld-Zcx3"/>
+                        <outletCollection property="numberButtons" destination="Dth-zt-ADB" collectionClass="NSMutableArray" id="Yjh-Ld-Zcx4"/>
+                        <outletCollection property="numberButtons" destination="ZoH-JL-nyg" collectionClass="NSMutableArray" id="Yjh-Ld-Zcx5"/>
+                        <outletCollection property="numberButtons" destination="6NE-64-7RO" collectionClass="NSMutableArray" id="Yjh-Ld-Zcx6"/>
+                        <outletCollection property="numberButtons" destination="Raz-1e-gu0" collectionClass="NSMutableArray" id="Yjh-Ld-Zcx7"/>
+                        <outletCollection property="numberButtons" destination="IN4-LY-3eb" collectionClass="NSMutableArray" id="Yjh-Ld-Zcx8"/>
+                        <outletCollection property="numberButtons" destination="jVg-0A-j1a" collectionClass="NSMutableArray" id="Yjh-Ld-Zcx9"/>
+                        <outletCollection property="numberButtons" destination="Qx3-7d-fib" collectionClass="NSMutableArray" id="Yjh-Ld-Zcx0"/>
+                    </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="nWl-wz-Qsx" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
